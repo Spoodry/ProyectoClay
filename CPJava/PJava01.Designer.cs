@@ -47,7 +47,8 @@
             // label4
             // 
             this.label4.Location = new System.Drawing.Point(116, 225);
-            this.label4.Visible = false;
+            this.label4.Size = new System.Drawing.Size(438, 22);
+            this.label4.Text = "Todavia no sé que poner en la introducción xd";
             // 
             // linkLabel1
             // 

@@ -117,4 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Es un software que provee herramientas de desarrollo para la creación de 
+programas en Java. Puede instalarse en una computadora local o en una 
+unidad de red.
+
+La escritura de aplicaciones y applets de Java necesita herramientas de 
+desarrollo como JDK.  JDK incluye Java Runtime Environment, el compilador 
+Java y las API de Java. Familiarizarse resulta fácil para los programadores 
+nuevos y con experiencia.
+
+
+Descargar JDK</value>
+  </data>
 </root>

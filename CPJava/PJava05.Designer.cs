@@ -28,7 +28,31 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PJava05));
             this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.Visible = false;
+            // 
+            // label2
+            // 
+            this.label2.Location = new System.Drawing.Point(80, 83);
+            this.label2.Size = new System.Drawing.Size(269, 22);
+            this.label2.Text = "JDK (Java Development Kit)";
+            // 
+            // label3
+            // 
+            this.label3.Location = new System.Drawing.Point(80, 139);
+            this.label3.Size = new System.Drawing.Size(706, 242);
+            this.label3.Text = resources.GetString("label3.Text");
+            // 
+            // label4
+            // 
+            this.label4.Location = new System.Drawing.Point(32, 394);
+            this.label4.Size = new System.Drawing.Size(860, 22);
+            this.label4.Text = "http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.ht" +
+    "ml";
             // 
             // PJava05
             // 

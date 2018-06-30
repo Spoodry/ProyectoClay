@@ -16,7 +16,7 @@ namespace CPJava
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PJava04());
+            Application.Run(new PJava01());
         }
     }
 }
