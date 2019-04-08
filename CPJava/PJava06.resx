@@ -118,17 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label3.Text" xml:space="preserve">
-    <value>Es un conjunto de utilidades que permite la ejecución de programas Java.
-En su forma más simple, el entorno de ejecución de Java está conformado 
-por una Máquina Virtual de Java o JVM, un conjunto de bibliotecas Java 
-y otros componentes necesarios para que una aplicación escrita en lenguaje 
-Java pueda ser ejecutada. El JRE actúa como un "intermediario" entre el 
-sistema operativo y Java.
-La Maquina Virtual de Java es el programa que ejecuta el código Java 
-previamente compilado (bytecode) mientras que las librerías de clases estándar 
-son las que implementan el API de Java. Ambas JVM y API deben ser 
-consistentes entre sí, de ahí que sean distribuidas de modo conjunto.
-
-Descarga el JRE:</value>
+    <value>Un dato siempre lleva asociado un tipo de dato, que determina el conjunto de 
+valores que puede tomar.
+En Java toda la información que maneja un programa esta representada por dos
+principales de datos: primitivos y referencias a objetos.
+Los tipos de datos primitivos no son objetos y se pueden utilizar directamente en
+un programa sin necesidad de crear objetos de este tipo. El API de java contiene
+clases asociadas a estos tipos que proporcionan métodos que facilitan su manejo.
+</value>
   </data>
+  <metadata name="columna1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columna2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columna3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columna4.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columna5.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="columna6.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>

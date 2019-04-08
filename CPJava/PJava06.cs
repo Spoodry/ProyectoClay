@@ -10,17 +10,16 @@ using System.Windows.Forms;
 
 namespace CPJava
 {
-    public partial class PJava04 : BaseJava
+    public partial class PJava06 : BaseJava
     {
-        public PJava04()
+        public PJava06()
         {
             InitializeComponent();
         }
 
-        private void btnsiguiente_Click(object sender, EventArgs e)
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            this.Hide();
-            new PJava05().Show();
+
         }
     }
 }

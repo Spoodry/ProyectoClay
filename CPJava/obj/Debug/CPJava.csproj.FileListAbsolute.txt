@@ -11,7 +11,6 @@ C:\Users\David\Documents\Visual Studio 2012\Projects\CPJava\CPJava\obj\Debug\CPJ
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\bin\Debug\CPJava.exe.config
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\bin\Debug\CPJava.exe
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\bin\Debug\CPJava.pdb
-C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.csprojResolveAssemblyReference.cache
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.BaseJava.resources
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava01.resources
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.Properties.Resources.resources
@@ -23,3 +22,5 @@ C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava02.resource
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava03.resources
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava04.resources
 C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava05.resources
+C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\source\repos\CPJava\CPJava\obj\Debug\CPJava.PJava06.resources

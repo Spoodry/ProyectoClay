@@ -16,5 +16,11 @@ namespace CPJava
         {
             InitializeComponent();
         }
+
+        private void btnsiguiente_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new PJava03().Show();
+        }
     }
 }

@@ -21,5 +21,11 @@ namespace CPJava
         {
 
         }
+
+        private void btnsiguiente_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new PJava04().Show();
+        }
     }
 }

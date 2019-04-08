@@ -78,6 +78,7 @@
             this.btnsiguiente.TabIndex = 11;
             this.btnsiguiente.Text = "Siguiente";
             this.btnsiguiente.UseVisualStyleBackColor = false;
+            this.btnsiguiente.Click += new System.EventHandler(this.btnsiguiente_Click);
             // 
             // btncancelar
             // 
@@ -105,12 +106,12 @@
             this.Controls.Add(this.linkLabel1);
             this.Name = "PJava01";
             this.Text = "PJava01";
-            this.Controls.SetChildIndex(this.label1, 0);
-            this.Controls.SetChildIndex(this.label2, 0);
-            this.Controls.SetChildIndex(this.label3, 0);
             this.Controls.SetChildIndex(this.linkLabel1, 0);
             this.Controls.SetChildIndex(this.btnsiguiente, 0);
             this.Controls.SetChildIndex(this.btncancelar, 0);
+            this.Controls.SetChildIndex(this.label1, 0);
+            this.Controls.SetChildIndex(this.label2, 0);
+            this.Controls.SetChildIndex(this.label3, 0);
             this.Controls.SetChildIndex(this.label4, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
